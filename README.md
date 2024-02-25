@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sukantasai
 - 👀 I’m interested in Web devlopment & AI,ML
-- 🌱 I’m currently learning Web devlopment
+- 🌱 I’m currently learning Web devlopment & AI,ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
